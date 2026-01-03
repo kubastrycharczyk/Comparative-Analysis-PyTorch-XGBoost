@@ -75,7 +75,6 @@ The project compares to different mathematical aprochase compairing **Forest** a
   * **Flexibility:** Managed through dedicated `XgboostManager` for easier benchmarking.
 
 
-diag.png
 
 ## Project Structure & Architecture
 
